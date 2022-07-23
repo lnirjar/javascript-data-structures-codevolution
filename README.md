@@ -1,2 +1,2 @@
-# javascript-data-structures-codevolution
+# Javascript Data Structures - codevolution
 JavaScript Data Structures
